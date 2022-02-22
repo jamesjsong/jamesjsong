@@ -1,8 +1,6 @@
 Hai, I’m James (@jamesjsong)
 
-I’m interested in :closed_book:, :balance_scale:, and :ramen:.
-
-I’m currently a fourth year at Harvard College, studying Computer Science and Philosophy.
+I’m currently a fourth year at Harvard College, studying English.
 
 📫 @ j_song@college.harvard.edu
 
