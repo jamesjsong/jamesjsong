@@ -1,6 +1,8 @@
-Hai, I’m James (@jamesjsong)
+Hi, I’m James (@jamesjsong)
 
 I’m currently a fourth year at Harvard College, studying English.
+
+Check out stim, a blog by me and my friends.
 
 📫 @ j_song@college.harvard.edu
 
